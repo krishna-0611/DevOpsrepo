@@ -9,3 +9,7 @@ resource "" "name" {
 resource "" "name" {
   
 }
+resource "azurerm_resource_group" "name5f3" {
+  name = "shashank73"
+  location = "west us"
+}
