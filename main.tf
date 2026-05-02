@@ -6,3 +6,6 @@ resource "azurerm_resource_group" "myrg535" {
 resource "" "name" {
   
 }
+resource "" "name" {
+  
+}
